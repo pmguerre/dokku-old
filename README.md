@@ -1,4 +1,5 @@
 [![Deploy to GitHub Pages](https://github.com/pmguerre/dokku/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/pmguerre/dokku/actions/workflows/deploy.yml)
+[![Test deployment](https://github.com/pmguerre/dokku/actions/workflows/test-deploy.yml/badge.svg?branch=main)](https://github.com/pmguerre/dokku/actions/workflows/test-deploy.yml)
 
 # Website
 
