@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Dokku',
+  title: 'Docusaurus',
   tagline: 'Criar sites com o Docusdaurus é muito fácil',
   favicon: 'img/favicon.ico',
 
