@@ -1,3 +1,5 @@
+[![Deploy to GitHub Pages](https://github.com/pmguerre/dokku/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/pmguerre/dokku/actions/workflows/deploy.yml)
+
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
